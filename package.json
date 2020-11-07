@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "better-sqlite3": "^7.1.1",
+    "discord.js": "^12.4.1",
     "enmap": "^5.8.0"
   }
 }
